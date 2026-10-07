@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">24012011037_MAD_Prac3</string>
+    <string name="browse">Browse</string>
+    <string name="web_url">Web URL</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="https_www_google_com">https://www.google.com</string>
+    <string name="call">Call</string>
+    <string name="phone_no">Phone No</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="_9999999999">9999999999</string>
+    <string name="call_log">Call Log</string>
+    <string name="call_log1">Call Log</string>
+    <string name="gallery">Gallery</string>
+    <string name="gallery1">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="camera1">Camera</string>
+    <string name="alarm">Alarm</string>
+    <string name="alarm1">Alarm</string>
+    <string name="login">Login</string>
+    <string name="login1">Login</string>
+    <string name="email_id">Email ID</string>
+    <string name="password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="forget_password">Forget Password?</string>
+</resources>
