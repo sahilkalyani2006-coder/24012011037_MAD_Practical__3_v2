@@ -17,7 +17,7 @@ import androidx.core.net.toUri
 import android.Manifest
 import android.provider.AlarmClock
 import android.provider.MediaStore
-
+//final
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
